@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUiArcGISApp1", "WinUiArcGISApp1\WinUiArcGISApp1.csproj", "{6504FCE2-A68F-4681-87E7-1AF4256ACC55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Debug|arm64.ActiveCfg = Debug|arm64
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Debug|arm64.Build.0 = Debug|arm64
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Debug|arm64.Deploy.0 = Debug|arm64
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Debug|x64.ActiveCfg = Debug|x64
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Debug|x64.Build.0 = Debug|x64
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Debug|x64.Deploy.0 = Debug|x64
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Debug|x86.ActiveCfg = Debug|x86
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Debug|x86.Build.0 = Debug|x86
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Debug|x86.Deploy.0 = Debug|x86
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Release|arm64.ActiveCfg = Release|arm64
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Release|arm64.Build.0 = Release|arm64
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Release|arm64.Deploy.0 = Release|arm64
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Release|x64.ActiveCfg = Release|x64
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Release|x64.Build.0 = Release|x64
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Release|x64.Deploy.0 = Release|x64
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Release|x86.ActiveCfg = Release|x86
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Release|x86.Build.0 = Release|x86
+		{6504FCE2-A68F-4681-87E7-1AF4256ACC55}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FB2C46A-37A5-41BA-8462-B3E95202F342}
+	EndGlobalSection
+EndGlobal

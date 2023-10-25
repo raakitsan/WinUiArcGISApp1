@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUiArcGISApp1 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUiArcGISApp1 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
